@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"express": "^4.21.2",
+		"bunrest": "^1.3.8",
+		"bun-serve-express": "^1.0.5"
+	}
+}
